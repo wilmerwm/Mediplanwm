@@ -1,8 +1,3 @@
-<%-- 
-    Document   : botonesNavegacionEdicion
-    Created on : 11/05/2021, 10:26:49 PM
-    Author     : Sebastian
---%>
 
 <section id="actions" class="py-4 mb-4 bg-light">
     <div class="container">
