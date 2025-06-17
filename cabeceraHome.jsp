@@ -1,8 +1,4 @@
-<%-- 
-    Document   : cabeceraHome.jsp
-    Created on : 11/06/2021, 08:22:04 AM
-    Author     : Sebastian
---%>
+
 
 <header>
     <!-- header inner -->
@@ -22,11 +18,11 @@
                             <nav class="main-menu">
                                 <ul class="menu-area-main">
                                     <li class="active"> <a href="#" style="text-decoration: none">Inicio</a> </li>
-                                    <!--<li class="active"> <a href="#">Administración</a> </li>-->
+                                    <!--<li class="active"> <a href="#">AdministraciÃ³n</a> </li>-->
                                     <li><a href="#plant">Plantas</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Administración
+                                            AdministraciÃ³n
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" href="${pageContext.request.contextPath}/ServletControladorBeneficio">Beneficios</a>
