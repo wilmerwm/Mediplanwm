@@ -1,8 +1,3 @@
-<%-- 
-    Document   : listaplantas.jsp
-    Created on : 10/06/2021, 10:11:07 AM
-    Author     : Sebastian
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
