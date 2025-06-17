@@ -1,8 +1,3 @@
-<%-- 
-    Document   : beneficio
-    Created on : 10/05/2021, 10:37:01 PM
-    Author     : Sebastian
---%>
 
 
 <!DOCTYPE html>
@@ -25,7 +20,7 @@
         <!-- Incluimos la cabecera-->
         <jsp:include page="/WEB-INF/paginas/comunes/cabecera.jsp"/>
         
-        <!-- Incluimos los botones de navegación-->
+        <!-- Incluimos los botones de navegaciÃ³n-->
         <jsp:include page="/WEB-INF/paginas/comunes/botonesNavegacion.jsp"/>
         
         <!-- Incluimos el listado de beneficios-->
