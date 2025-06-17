@@ -11,7 +11,7 @@ import javax.sql.DataSource;
 
 /**
  *
- * @author Sebastian
+ * 
  */
 public class Conexion {
     
