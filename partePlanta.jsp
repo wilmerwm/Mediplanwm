@@ -1,8 +1,3 @@
-<%-- 
-    Document   : partePlanta
-    Created on : 21/05/2021, 10:18:19 PM
-    Author     : Sebastian
---%>
 
 <!DOCTYPE html>
 <html>
@@ -25,7 +20,7 @@
         <!-- Incluimos la cabecera-->
         <jsp:include page="/WEB-INF/paginas/comunes/cabecera.jsp"/>
         
-        <!-- Incluimos los botones de navegación-->
+        <!-- Incluimos los botones de navegaciÃ³n-->
         <jsp:include page="/WEB-INF/paginas/comunes/botonesNavegacion.jsp"/>
         
         <!-- Incluimos el listado de beneficios-->
