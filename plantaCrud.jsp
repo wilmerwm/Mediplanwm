@@ -1,8 +1,3 @@
-<%-- 
-    Document   : planta
-    Created on : 30/05/2021, 12:25:29 AM
-    Author     : Sebastian
---%>
 
 <!DOCTYPE html>
 <html>
@@ -25,7 +20,7 @@
         <!-- Incluimos la cabecera-->
         <jsp:include page="/WEB-INF/paginas/comunes/cabecera.jsp"/>
         
-        <!-- Incluimos los botones de navegación-->
+        <!-- Incluimos los botones de navegaciÃ³n-->
         <%--<jsp:include page="/WEB-INF/paginas/comunes/botonesNavegacion.jsp"/>--%>
         <section id="actions" class="py-4 mb-4 bg-light">
             <div class="container">
