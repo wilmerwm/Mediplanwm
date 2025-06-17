@@ -1,8 +1,4 @@
-<%-- 
-    Document   : formaEmpleo
-    Created on : 1/06/2021, 08:00:47 PM
-    Author     : Sebastian
---%>
+
 
 <!DOCTYPE html>
 <html>
@@ -25,7 +21,7 @@
         <!-- Incluimos la cabecera-->
         <jsp:include page="/WEB-INF/paginas/comunes/cabecera.jsp"/>
         
-        <!-- Incluimos los botones de navegación-->
+        <!-- Incluimos los botones de navegaciÃ³n-->
         <jsp:include page="/WEB-INF/paginas/comunes/botonesNavegacion.jsp"/>
         
         <!-- Incluimos el listado de beneficios-->
